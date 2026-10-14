@@ -27,6 +27,8 @@ Criar uma página web *semântica, **esteticamente agradável* e *intuitiva, que
 *Ademir Lopes* é docente efetivo do *Instituto Federal do Ceará – Campus Maranguape, atuando nos cursos de **Técnico Integrado em Informática* e *Licenciatura em Matemática*.  
 Atualmente, exerce a função de *Chefe do Departamento de Ensino*, contribuindo para o aprimoramento contínuo das práticas educacionais no campus.  
 
+https://srkkxz.github.io/Ademir-landing/
+
 ---
 
 ## 🛠 Tecnologias Utilizadas  
